@@ -10,6 +10,7 @@ body {
   padding-bottom: 0;
   box-sizing: border-box;
   font-size: 0.9em;
+  font-weight: 500;
 }
 body .fa {
   margin-right: 0.3em;
@@ -21,7 +22,7 @@ body .info-unit h2 {
   font-weight: 700;
 }
 body .info-unit h3 {
-  font-weight: 300;
+  font-weight: 500;
 }
 
 /* -------------------------------------------------
@@ -91,7 +92,7 @@ body .info-unit h3 {
 }
 .container .side .info-unit ul li label {
   display: inline-block;
-  width: 29%;
+  width: 24%;
 }
 .container .side .info-unit ul li span {
   display: inline-block;
@@ -114,6 +115,14 @@ body .info-unit h3 {
 }
 .container .main .info-unit ul li {
   margin-bottom: 1rem;
+  list-style: disc;
+}
+.container .main .info-skill ul li{
+  margin-bottom: 0.4rem;
+  list-style: disc;
+}
+.container .main .info-honor ul li{
+  margin-bottom: 0.4rem;
   list-style: disc;
 }
 .container .main .info-unit ul li h3 .link {
