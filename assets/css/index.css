@@ -117,11 +117,11 @@ body .info-unit h3 {
   margin-bottom: 1rem;
   list-style: disc;
 }
-.container .main .info-skill ul li{
+.container .main section.info-skill ul li{
   margin-bottom: 0.4rem;
   list-style: disc;
 }
-.container .main .info-honor ul li{
+.container .main section.info-honor ul li{
   margin-bottom: 0.4rem;
   list-style: disc;
 }
